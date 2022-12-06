@@ -6,7 +6,8 @@
 
 ### 2. 프로젝트 정보
 
-- Acon_B_Team_.pdf 참고
+- Acon_B_Team_Plan.pdf : 기본구성계획
+- Acon_B_Team_FileInfo.pdf : 페이지의 기능 요약설명 
 
 ### 3. 프로젝트 결과물
 
